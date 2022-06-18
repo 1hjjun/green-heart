@@ -1,4 +1,4 @@
 # hello, Megaptera!
  
- 처음만드는 Git 저장소
+ 처음만든 Git 저장소
 
